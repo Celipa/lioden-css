@@ -1,0 +1,323 @@
+div.box1 {
+    background:#803C5D;
+    text-align:center;
+    color:black;
+    width:700px;
+    height:60px;
+    border:1px solid black;
+    transition:all ease 2s;
+    border-radius:5px;
+    overflow:hidden;
+    }
+    
+    .box1:hover {
+    background:#3c4c80;
+    text-align:center;
+    color:rgb(255, 0, 0);
+    width:700;
+    height:255px;
+    border:1px solid black;
+    transition:all ease 2s;
+    border-radius:5px;
+    overflow:auto;
+    }
+    
+    div.box2 {
+    background:#803C5D;
+    text-align:center;
+    color:black;
+    width:700px;
+    height:60px;
+    border:1px solid black;
+    transition:all ease 2s;
+    border-radius:5px;
+    overflow:hidden;
+    }
+    
+    .box2:hover {
+    background:#803C5D;
+    text-align:center;
+    color:black;
+    width:700px;
+    height:255px;
+    border:1px solid black;
+    transition:all ease 2s;
+    border-radius:5px;
+    overflow:auto;
+    }
+    
+    div.box3 {
+    background:#803C5D;
+    text-align:center;
+    color:black;
+    width:700px;
+    height:60px;
+    border:1px solid black;
+    transition:all ease 2s;
+    border-radius:5px;
+    overflow:hidden;
+    }
+    
+    .box3:hover {
+    background:#803C5D;
+    text-align:center;
+    color:black;
+    width:700px;
+    height:255px;
+    border:1px solid black;
+    transition:all ease 2s;
+    border-radius:5px;
+    overflow:auto;
+    }
+    
+    div.boxfloat {
+    background:#803C5D;
+    color:rgb(192, 66, 66);
+    border:1px solid black;
+    position:fixed;
+    text-align:center;
+    border-radius:5px;
+    left:0px;
+    bottom:0px;
+    width:165px;
+    height:200px;
+    overflow:auto;
+    }
+      
+     
+    body {
+    background: url("https://live.staticflickr.com/7344/8860602766_b6e3880e8d_b.jpg") fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    image-resolution:inherit;
+    color: rgb(181, 177, 245);
+    text-shadow: white;
+    }
+     
+    .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+    color: #24668d;
+    }
+     
+    h1{
+        font-family:'Times New Roman' !important;
+        text-align: left;
+        background: linear-gradient (0deg, #2980B9, #ff00dd);
+        border-bottom: 1px solid #000;
+        }
+    
+    h3{
+        font-family: 'Times New Roman' !important;
+        text-align: left;
+        color: #6fd194;
+        border-bottom: 1px solid #000;
+        }
+    
+    .sidebar h3 {
+    font-family: 'Times New Roman' !important;
+    text-align: left;
+    color: #6fd194;
+    border-bottom: 1px solid #000;
+    }
+     
+    /* Buttons */
+    input[type="button"], input[type="submit"], input[type="submit"]:hover {
+    background: #c43a3a;
+    color: #f3f3f3;
+    border: 1px solid #000;
+    text-shadow: none;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 5px;
+    }
+      
+      
+    /* Links */
+      
+    .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+    color: #868eff;
+    }
+      
+    .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+    border-bottom: 1px solid #000000;
+    color: #868eff;
+    }
+      
+    /* Topbar */
+      
+    .topbar {
+    background-image: url("https://thewraplabel.com/cdn/shop/products/Galaxy_Banner.png?v=1563921955");
+    background-repeat: no-repeat;
+    width: auto;
+    height: auto;
+    border: 1px solid #000;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    }
+     
+    .badge {
+    background: rgb(128, 60, 93);
+    border: 1px solid #000;
+    }
+      
+    /* Navigational Bar */
+      
+    .main {
+    background: rgba(110, 3, 55, 0.46);
+    border: 1px solid #000;
+    box-shadow: none;
+    }
+      
+    .navbar {
+    background: #803C5D;
+    border-bottom: 1px solid #000;
+    color: #000;
+    }
+      
+    .navbar-default .navbar-nav > li > a {
+    color: #000;
+    }
+      
+    .navbar-default .navbar-nav li a:hover {
+    color: #000;
+    background: #803C5D;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    } 
+      
+      
+      
+    /* Sidebar */
+      
+    .sidebar {
+    background: #0000008a;
+    border: 0px solid #000;
+    border-bottom: 1px solid #000;
+    border-left: 1px solid #000;
+    color: #b343fd;
+    }
+      
+    .col-md-3 .panel {
+    background: rgb(80, 27, 53);
+    border: 1px solid #000;
+    box-shadow: none;    
+    }
+      
+    .progress-bar {
+    background: #A86882;
+    }
+      
+    .progress {
+    background: #2d1b55;
+    border: 1px solid #000;
+    }
+      
+      
+    /* Chat */
+      
+    .chat_light, .chat_dark {
+    background: rgb(128, 60, 93);
+    font-size: 11px;
+    color: #000;
+    }
+     
+    .chatContainer {
+    border: 1px solid #000;
+    }
+      
+    .userstolen {
+    background: none;
+    }
+     
+    .alert-danger {
+    color: #eeff01;
+    background: rgba(255, 0, 64, 0.795);
+    border: 1px solid #000;
+    }
+     
+    .alert-success {
+    color: #000;
+    background: rgb(128, 60, 93);
+    border: 1px solid #000;
+    }
+     
+    .breadcrumb {
+    background:  #803C5D;
+    font-size: 13px;
+    border: 1px solid #000;
+    }
+      
+    .breadcrumb>.active {
+    color: rgb(73, 7, 70)
+    }
+      
+    h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Carter One";
+    color: #fbff02;
+    }
+      
+    .col-md-9 {
+    background: none;
+    border: 0px solid #000;
+    }
+      
+    /* Tables */
+      
+    #lion_image {
+    border-radius: 25px;
+    overflow: hidden;
+    border: 1px solid #000;
+    }
+      
+    .table, .item {
+    border: 1px solid #000;
+    background: #803C5D;
+    border-collapse: separate;
+    }
+     
+    .table .right, .table .right_odd {
+    background: none;
+    border: 0px solid #000;
+    }
+     
+    div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
+    border: 0px solid #000;
+    background: #dd578c98;
+    color: rgb(181, 177, 245);;
+    }
+    #fraProfileContent{
+    padding:1rem;
+    background: #ad001759;
+    color: #6affff;
+    box-sizing: border-box;
+    }
+    td.right img{
+    border: 1px solid #000;
+    border-radius: 1rem;
+    }
+    .cave-grid{
+    border: 1px solid #000;
+    background: #7a1526a2;
+    color:#3ec2ff;
+    border-radius: 1rem;
+    }
+    .cave-grid img{
+    border: 6px #ffffff dotted;
+    border-radius: 1rem;
+    }
+    div .left, .mound-grid {
+    border: 1px solid #000;
+    background: #6e0000a2;
+    color: #9fb5ff;
+    }
+     
+    .table .left {
+    border: 1px solid #000;
+    background: #75264698;
+    color: rgb(181, 177, 245);
+    }
+     
+    .inner-table .right {
+    background: #2a5b68;
+    border: 1px solid #000;
+    border-left: none;
+    }
